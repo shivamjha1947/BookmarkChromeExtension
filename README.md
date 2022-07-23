@@ -1,2 +1,2 @@
-# React_BookmarkChromeExtension
-React Js Bookmark Chrome Extension
+# HTML, CSS, Javascript BookmarkChromeExtension
+Bookmark Chrome Extension
